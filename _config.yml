@@ -13,9 +13,9 @@ title                    : "Sonia Castelo"
 title_separator          : "-"
 name                     : &name "Sonia Castelo"
 description              : &description "Sonia Castelo — Research engineer and PhD student at NYU (ViDA Lab)."
-url                      : https://scastelo.github.io # The base hostname & protocol for your site
+url                      : https://soniacq.github.io # The base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "soniacq/scastelo.github.io"
+repository               : "soniacq/soniacq.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,7 +28,7 @@ author:
   bio              : "Research engineer and PhD student at New York University (ViDA Lab). Working on visual analytics, HCI, machine learning, and AR for AI-assisted task guidance."
   location         : "New York, NY"
   employer         : "New York University"
-  uri              : "https://scastelo.github.io"
+  uri              : "https://soniacq.github.io"
   email            : "s.castelo@nyu.edu"
 
   # Academic websites
